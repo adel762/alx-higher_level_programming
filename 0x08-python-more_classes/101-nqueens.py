@@ -2,7 +2,7 @@
 """Solves the N-queens puzzle.
 
 Determines all possible solutions to placing N
-N non-attacking queens on an NxN chessboa
+N non-attacking queens on an NxN chessboard.
 
 N must be an integer greater than or equal to 4.
 
